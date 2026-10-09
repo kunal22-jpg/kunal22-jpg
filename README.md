@@ -1,29 +1,231 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>🎓 **Pre-Final Year Computer Science Engineering Student**<br>💻 **Java & DSA | Full-Stack Development**<br>🤖 **Exploring AI, Generative AI & LLMs**<br>🔐 **Interested in Cybersecurity & Emerging Technologies**<br>🚀 **Building real-world projects and turning ideas into solutions**<br>🌱 **Currently focused on Java, DSA, Web Development & AI**<br>🧠 **Continuously learning, experimenting, and improving**<br>🤝 **Open to collaborations, projects & new opportunities**<br>🎯 **Aspiring Full-Stack Developer with AI Integration**<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,100:2C5364&text=Kunal%20R%20Chaudhari&fontSize=50&fontColor=ffffff&fontAlignY=45"/>
 
-## 🌐 Socials:
-[## 🌐 Connect With Me
+### Pre-Final Year CSE Student • Java & DSA • Full-Stack Developer • AI Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20R%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-r-chaudhari-3a7617351/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@kunalzz_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@KunalRaghunathChaudhari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kunalraghunathc@gmail.com) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Java+%26+DSA+Enthusiast;Full+Stack+Developer;Exploring+Generative+AI+%26+LLMs;Interested+in+Cybersecurity;Building+Real-World+Projects;Always+Learning+New+Technologies"/>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kunal22-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kunal22-jpg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kunal22-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kunal22-jpg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+> *Building real-world projects and turning ideas into solutions, with a focus on full-stack development and AI integration.*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kunal22-jpg&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<a href="https://github.com/kunal22-jpg">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kunal-r-chaudhari-3a7617351/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/kunalzz_">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@KunalRaghunathChaudhari">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:kunalraghunathc@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=java,cpp,c,py,js,html,css,php,react,nextjs,nodejs,express,fastapi,mongodb,mysql,docker,git,github,aws,firebase&perline=10"/>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=kunal22-jpg&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 👨‍💻 About Me
+
+I'm **Kunal R Chaudhari**, a Pre-Final Year **Computer Science Engineering** student who loves building real-world projects and turning ideas into working solutions.
+
+I'm focused on **Java**, **Data Structures & Algorithms**, **Web Development**, and **AI**, and I'm continuously learning, experimenting, and improving.
+
+### Currently
+
+* 🌱 Focused on **Java**, **DSA**, **Web Development** & **AI**
+* 🤖 Exploring **AI**, **Generative AI** & **LLMs**
+* 🔐 Interested in **Cybersecurity** & emerging technologies
+* 🎯 Aspiring **Full-Stack Developer with AI Integration**
+* 🤝 Open to **collaborations, projects & new opportunities**
+
+---
+
+# 🛠 Tech Stack
+
+| Category                     | Technologies                                                                  |
+| ---------------------------- | ----------------------------------------------------------------------------- |
+| 💻 **Programming Languages** | Java, C, C++, Python, JavaScript, PHP                                         |
+| 🎨 **Frontend**              | HTML5, CSS3, React, Next.js, Angular, AngularJS, Bootstrap, jQuery, Three.js, GreenSock, OpenGL |
+| ⚙️ **Backend**               | Node.js, Express.js, FastAPI, .NET, JWT, Socket.io, Nodemon, WordPress        |
+| 🗄️ **Databases**            | MongoDB, MySQL, Redis, Firebase, Supabase                                     |
+| ☁️ **Cloud & Hosting**       | AWS, Google Cloud, Render, Vercel                                             |
+| 🤖 **AI / Data**             | TensorFlow, NumPy, Apache Hadoop                                              |
+| 🚀 **DevOps & CI/CD**        | Docker, Kubernetes, Jenkins, Apache Maven, Apache, GitHub Actions, GitLab CI  |
+| 🧪 **Testing**               | Testing Library, Playwright, Selenium                                         |
+| 🛠 **Tools & Version Control** | Git, GitHub, GitLab, Bitbucket, Jira, Notion, Postman, React Hook Form, React Router, Web3.js |
+| 🎨 **Design & Media**        | Figma, Canva, Adobe Fonts, Adobe InDesign, Adobe Premiere Pro                 |
+
+---
+
+# 🏆 Highlights
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🎓 Education
+
+**Pre-Final Year — Computer Science Engineering**
+
+</td>
+
+<td width="50%">
+
+### 💻 Core Focus
+
+Java • Data Structures & Algorithms
+Full-Stack Web Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🤖 Exploring
+
+Generative AI • LLMs
+Cybersecurity & Emerging Technologies
+
+</td>
+
+<td width="50%">
+
+### 🎯 Goal
+
+Aspiring Full-Stack Developer
+with AI Integration
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🎯 Current Focus
+
+```text
+Learning
+├── Java
+├── Data Structures & Algorithms
+├── Web Development
+└── AI, Generative AI & LLMs
+
+Exploring
+├── Cybersecurity
+└── Emerging Technologies
+
+Building
+├── Real-world projects
+└── Full-Stack apps with AI integration
+```
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=kunal22-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
+<br/>
+<img src="https://streak-stats.demolab.com/?user=kunal22-jpg&theme=dark&hide_border=false"/>
+<br/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kunal22-jpg&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kunal22-jpg&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+
+</div>
+
+---
+
+# 🔝 Top Contributed Repo
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=kunal22-jpg&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+
+</div>
+
+---
+
+# ✍️ Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kunal-r-chaudhari-3a7617351/">
+<img src="https://img.shields.io/badge/LinkedIn-Kunal%20R%20Chaudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/kunalzz_">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@KunalRaghunathChaudhari">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="mailto:kunalraghunathc@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Turning ideas into solutions.
+
+<br>
+
+<a href="https://visitcount.itsvg.in">
+<img src="https://komarev.com/ghpvc/?username=kunal22-jpg&icon=0&color=0"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0F2027"/>
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
