@@ -158,6 +158,18 @@ Building
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/kunal22-jpg/kunal22-jpg/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</div>
+
+---
+
 # 🏆 GitHub Trophies
 
 <div align="center">
@@ -167,16 +179,7 @@ Building
 </div>
 
 ---
-## 🐍 Contribution Snake
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/kunal22-jpg/kunal22-jpg/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
-</div>
----
 # 🔝 Top Contributed Repo
 
 <div align="center">
